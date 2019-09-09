@@ -1,0 +1,185 @@
+body{
+    background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    Linear-gradient(127deg, black, black 70.71%),
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding: 0%;
+}
+ 
+ /* ul,li,a{ */
+ /* color: white; */
+ /* font-size: 20px; */
+
+
+
+ .imgs1{
+     width: 100%;
+     height: (100px);
+ }
+ .imgs2{
+    width: 100%;
+    height: (100px)
+}.imgs3{
+    width: 100%;
+    height: (100px)
+}
+
+textarea{
+    margin-top: 40px;
+}
+label{
+    color: white;
+  
+    margin-right: 60px;
+}
+
+ul,li,a{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    padding-right:40px; 
+}
+.back{
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+    height: 500px;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.navbar{
+    display:flex ;
+    justify-content: center ;
+    justify-content: space-around ;
+    width: 100%;
+
+}
+.courses{
+    color:white;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 2em;
+
+}
+.view{
+    color: blue;
+    display:flex;
+    justify-content: center;
+}
+.video{
+display: flex;
+justify-content: center;
+
+
+}
+.titre{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mesimages{
+    width: 100%;
+   margin: 20px;
+
+}
+.A{
+    display: flex;
+    justify-content: center;
+  
+ 
+}
+.B{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.C{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.zz img {
+    margin: 20px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.mondiv{
+    width: 100%;
+    background-color: rgb(78, 5, 5);
+    display: flex;
+
+    justify-content: space-between
+    
+}
+.titre{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: 30px
+
+}
+.myform{
+    width: 100%;
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+}
+.myform input,select{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.myform button{
+   
+    background-color: blue;
+    border-color: blue;
+}
+.myform button:hover{
+    opacity: 0.5;
+}
+.pad{
+    color: beige;
+    font-size: 20px;
+    display: flex;
+
+   justify-content: center;
+    flex-direction: column;
+}
+.select{
+    width: 50px;
+    height: 20px;
+}
+
+.tous{
+    display: flex;
+  justify-content: center ;
+}
+#texterea{
+    width: 200px;
+    height: 50px;
+    max-width: 200px;
+    max-height: 50px;
+}
+.feed{
+    display: flex;
+  justify-content: center ;
+}
+.center {
+    display: flex;
+    justify-content: center ;  
+}
